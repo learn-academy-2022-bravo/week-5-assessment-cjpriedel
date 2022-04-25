@@ -68,6 +68,7 @@ const l33tSp34k = (str) => {
 // add .toUpperCase to cover case sensitivity. 
 
 
+
 describe("returnItemsOfLetter", () => {
     it("returns items in array that contain letter input", () => {
     const arrayOfWords1 = ["Apple", "Banana", "Plum", "Orange", "Kiwi"]

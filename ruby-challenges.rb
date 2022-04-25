@@ -29,9 +29,6 @@ def sum arr
     arr.sum
 end
 
-# def s a
-#     a.sum
-# end
 
 # --------------------3a) Create a class called Bike that is initialized with a model, wheels, and current_speed. The default number of wheels is 2. The current_speed should start at 0. Create a bike_info method that returns a sentence with all the data from the bike object.
 
@@ -76,4 +73,3 @@ p new_bike.brake(25)
 # Expected output example: my_bike.pedal_faster(18) => 28
 # Expected output example: my_bike.brake(5) => 23
 # Expected output example: my_bike.brake(25) => 0
-
